@@ -2,7 +2,7 @@
 
 ## Customized Version of the official front-end to be used in bootstrap-vue projects. 
 
-### Note: This is not yet available in npm. 
+### Note: This is not yet available in npm. And currently it is personal use only. However you can use it at your own risk for your projects.
 > File manager for Laravel - Frontend - Vue.js 
 
 > Backend - Laravel 5 package - [alexusmai/laravel-file-manager](https://github.com/alexusmai/laravel-file-manager)
